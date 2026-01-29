@@ -37,6 +37,8 @@
 
     The other problem in the figure is the lack of accesibility. This can be improved easily. With the better color selection, this figure could be more accesible to color blind people. There are color palettes available in the matplotlib module. Furthermore, the figure can benefit from making font size of the text bigger. It is difficult to see with this size. Also colors selected makes some of the texts hard to see. 
 
+    Good image is general organized quite well. The only two problems that I can think of is the confusion that could arise if it happened to be printed out in black and white. Apple TV and Roku is overlapping with each other. This could cause a confusion because based on the Gestalt principles, different the boundaries of different groups should be clear, whereas for this figure it is not super clear. 
+    I would appreciate higher contrast between the text in the boxes and box colors. The text might be difficult to read in black and white print out. 
 
       
       ```
